@@ -94,7 +94,7 @@ The percentage change in the change in the email funnel is seen in the table abo
 
 - Most User activity/engagement associated with countries
 
-![newplot (8)](https://user-images.githubusercontent.com/68263684/108168623-ded72d00-70b4-11eb-9bc5-584d84b17ff0.png)
+![newplot (13)](https://user-images.githubusercontent.com/68263684/108169243-b1d74a00-70b5-11eb-983e-1148d2f3c058.png)
 
 - Most User activity/engagement associated with countries
 
