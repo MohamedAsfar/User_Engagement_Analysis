@@ -35,7 +35,7 @@ The project aims to answer the following questions:<br>
 4. Are changes in user activity/engagement associated with specific countries or regions of the world where Zilto’s  users are located?<br>
 ---
 ## Task 1 
-### Has user activity or engagement dropped, increased or remained stable? What is the extent of change in user activity/engagement?
+#### Has user activity or engagement dropped, increased or remained stable? What is the extent of change in user activity/engagement?
 ---
 ## Task 2
 ### Are there any changes in the three stages of the emails funnel? What changes have you discovered? (Please search online for terms such as sales funnel, marketing funnel to understand the funnel concept).
