@@ -82,7 +82,7 @@ The percentage change in the change in the email funnel is seen in the table abo
 ## Task 3
 #### Are changes in user activity/engagement associated with specific devices or hardware ( mobile phone, tablet computers, desktop computers, etc.) that customers use to read emails and interact with Zilto’s web portal?
 
-- user activity/engagement associated with specific devices
+- User activity/engagement associated with specific devices
 
 ![newplot (7)](https://user-images.githubusercontent.com/68263684/108168281-493b9d80-70b4-11eb-9a4c-1c0f30e9b076.png)
 
@@ -90,6 +90,14 @@ The percentage change in the change in the email funnel is seen in the table abo
 ---
 ## Task 4
 #### Are changes in user activity/engagement associated with specific countries or regions of the world where Zilto’s users are located?
+
+- Most User activity/engagement associated with countries
+
+![newplot (8)](https://user-images.githubusercontent.com/68263684/108168623-ded72d00-70b4-11eb-9bc5-584d84b17ff0.png)
+
+- Most User activity/engagement associated with countries
+
+![newplot (11)](https://user-images.githubusercontent.com/68263684/108168778-16de7000-70b5-11eb-93a2-165168e14efa.png)
 
 ---
 ## Databricks
