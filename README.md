@@ -45,15 +45,13 @@ The project aims to answer the following questions:<br>
 ![newplot (1)](https://user-images.githubusercontent.com/68263684/108164629-62d9e680-70ae-11eb-94ee-4b0961d64c7d.png)
 
 - Change in user activity for each week
-  <br>
+
 ![newplot (3)](https://user-images.githubusercontent.com/68263684/108165261-7cc7f900-70af-11eb-8438-b648b326e7b1.png)
 
-  <br>
-- Change in user activity 
-  <br>
- - Change in user activity for each month
+- Change in user activity for each month
+
 ![newplot (4)](https://user-images.githubusercontent.com/68263684/108165319-9c5f2180-70af-11eb-91cb-5f54f296368d.png)
-  <br>
+
 ---
 ## Task 2
 #### Are there any changes in the three stages of the emails funnel? What changes have you discovered? 
