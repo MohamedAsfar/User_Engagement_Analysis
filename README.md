@@ -39,6 +39,7 @@ The project aims to answer the following questions:<br>
 
 - User Activity - Month wise 
 ![newplot (1)](https://user-images.githubusercontent.com/68263684/108164197-8f413300-70ad-11eb-9e0e-41262352238c.png)
+
 - User Activity - Week wise  
 ![newplot (1)](https://user-images.githubusercontent.com/68263684/108164629-62d9e680-70ae-11eb-94ee-4b0961d64c7d.png)
 
