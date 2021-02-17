@@ -36,9 +36,13 @@ The project aims to answer the following questions:<br>
 ---
 ## Task 1 
 #### Has user activity or engagement dropped, increased or remained stable? What is the extent of change in user activity/engagement?
+
+
 ---
 ## Task 2
 #### Are there any changes in the three stages of the emails funnel? What changes have you discovered? 
+![newplot (1)](https://user-images.githubusercontent.com/68263684/108164197-8f413300-70ad-11eb-9e0e-41262352238c.png)
+
 ---
 ## Task 3
 #### Are changes in user activity/engagement associated with specific devices or hardware ( mobile phone, tablet computers, desktop computers, etc.) that customers use to read emails and interact with Zilto’s web portal?
