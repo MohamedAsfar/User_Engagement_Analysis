@@ -82,6 +82,9 @@ The percentage change in the change in the email funnel is seen in the table abo
 ## Task 3
 #### Are changes in user activity/engagement associated with specific devices or hardware ( mobile phone, tablet computers, desktop computers, etc.) that customers use to read emails and interact with Zilto’s web portal?
 
+- user activity/engagement associated with specific devices
+
+![newplot (7)](https://user-images.githubusercontent.com/68263684/108168281-493b9d80-70b4-11eb-9a4c-1c0f30e9b076.png)
 
 
 ---
