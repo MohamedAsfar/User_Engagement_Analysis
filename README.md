@@ -72,7 +72,12 @@ An email funnel is a representation of how a subscriber goes from prospective le
 
 ![newplot (5)](https://user-images.githubusercontent.com/68263684/108167904-a71bb580-70b3-11eb-9e20-8cc255859158.png)
 
+#### Points to note:
 
+The percentage change in the change in the email funnel is seen in the table above
+- The overall_conversation shows the percentage change with respect to the sent_weekly_digest while the stage_conversation shows the percentage change with respect to the previous stage of the funnel
+- From the data we can say that if the email is sent to 100 people then around 35% of them opens the email while 15% of the people clicks on the links followed by 6% of the users sent the reengagement email.
+- So yes there is lot of changes in the three stages of the funnel
 ---
 ## Task 3
 #### Are changes in user activity/engagement associated with specific devices or hardware ( mobile phone, tablet computers, desktop computers, etc.) that customers use to read emails and interact with Zilto’s web portal?
