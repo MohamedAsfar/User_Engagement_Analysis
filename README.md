@@ -4,12 +4,13 @@
 
 
 ---
+![Tricks for Best User Experience Via E-commerce Data Entry Form](https://user-images.githubusercontent.com/68263684/108158546-623b5300-70a2-11eb-86ab-b8a49529b12b.jpg)
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
 - [Define](#Define)
-- [Discover](#Discover)
+- [Aim of the project](# AIM-OF-THE-PROJECT)
 - [Preprocessing the data](#Preprocessing-the-data)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Machine Learning](#Machine-Learning)
