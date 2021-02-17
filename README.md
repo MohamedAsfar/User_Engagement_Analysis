@@ -47,6 +47,8 @@ The project aims to answer the following questions:<br>
 - Change in user activity for each week
   <br>
 ![newplot (3)](https://user-images.githubusercontent.com/68263684/108165261-7cc7f900-70af-11eb-8438-b648b326e7b1.png)
+
+ <br>
 - Change in user activity 
   <br>
  - Change in user activity for each month
