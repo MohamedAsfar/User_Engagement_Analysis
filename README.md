@@ -100,6 +100,13 @@ The percentage change in the change in the email funnel is seen in the table abo
 
 ![newplot (11)](https://user-images.githubusercontent.com/68263684/108168778-16de7000-70b5-11eb-93a2-165168e14efa.png)
 
+#### Points to note
+- The major impact is the United States where the user engagement is the highest
+- Switzerland had increased the no. of user actitivity learnierly from week 27 to 30 and then sudden decline after week 30 was seen which remained almost constant till week 35
+- Neatherland and Spain had increased the number of user activities from 60 to 160
+- Austria had a linear decline in the user activity at week 28 from 180 users to 30 users
+- Similarly Venezuela had also seen quite decline in the number of count in the user activity
+- ALl the outher contries had somewhat up and downs in the activity but overall not caused much impact and remained stable
 ---
 ## Databricks
 
