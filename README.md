@@ -86,7 +86,7 @@ The percentage change in the change in the email funnel is seen in the table abo
 
 ![newplot (12)](https://user-images.githubusercontent.com/68263684/108168996-602ebf80-70b5-11eb-80d6-151e78f66b6c.png)
 
-
+- Most of the user activity or engagement is through Laptops and mobile phones 
 
 ---
 ## Task 4
