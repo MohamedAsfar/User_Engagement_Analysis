@@ -61,7 +61,7 @@ The project aims to answer the following questions:<br>
 ## Task 2
 #### Are there any changes in the three stages of the emails funnel? What changes have you discovered? 
 
-- What is Email Funnel?
+###### What is Email Funnel?
 An email funnel is a representation of how a subscriber goes from prospective lead to a customer through educational and promotional email communications. For effective email funnels, marketers have to anticipate the subscriber's needs to send an email at the right time to elicit action.
 
 - Number of user responded
