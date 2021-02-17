@@ -38,7 +38,7 @@ The project aims to answer the following questions:<br>
 #### Has user activity or engagement dropped, increased or remained stable? What is the extent of change in user activity/engagement?
 ---
 ## Task 2
-#### Are there any changes in the three stages of the emails funnel? What changes have you discovered? (Please search online for terms such as sales funnel, marketing funnel to understand the funnel concept).
+#### Are there any changes in the three stages of the emails funnel? What changes have you discovered? 
 ---
 ## Task 3
 #### Are changes in user activity/engagement associated with specific devices or hardware ( mobile phone, tablet computers, desktop computers, etc.) that customers use to read emails and interact with Zilto’s web portal?
