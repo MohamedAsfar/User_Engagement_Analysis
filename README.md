@@ -110,7 +110,7 @@ The percentage change in the change in the email funnel is seen in the table abo
 ---
 ## Databricks
 
-[Click here to see the data analysis for the company in Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3839454205680965/632151243528397/573016260412799/latest.html)
+[Click here to see the entire data analysis for the company in Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3839454205680965/632151243528397/573016260412799/latest.html)
 
 ---
 [Back To The Top](#User_Engagement_Analysis)
