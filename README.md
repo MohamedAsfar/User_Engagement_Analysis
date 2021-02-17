@@ -10,7 +10,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Define](#Define)
-- [Aim of the project](# AIM-OF-THE-PROJECT)
+- [Aim of the project](#AIM-OF-THE-PROJECT)
 - [Preprocessing the data](#Preprocessing-the-data)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Machine Learning](#Machine-Learning)
