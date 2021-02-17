@@ -12,8 +12,11 @@ You're sections headers will be used to reference location of destination.
 - [Define](#Define)
 - [Aim of the project](#AIM-OF-THE-PROJECT)
 - [Discover](#Discover)
-
-
+- [Task 1](#Task-1)
+- [Task 2](#Task-2)
+- [Task 3](#Task-3)
+- [Task 4](#Task-4)
+- [Databricks](#Databricks)
 
 ---
 
