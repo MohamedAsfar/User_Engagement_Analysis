@@ -12,7 +12,7 @@ You're sections headers will be used to reference location of destination.
 - [Define](#Define)
 - [Aim of the project](#AIM-OF-THE-PROJECT)
 - [Discover](#Discover)
-- [Why Databricks](#Why-Databricks)
+
 
 
 ---
