@@ -53,7 +53,7 @@ The project aims to answer the following questions:<br>
 #### Points to note:
 
 -   The dataset contains informations of user activities for months between May and August
--   We can see that there is a decline is user engagement over the weekends, which is expected because very few people would be working over the weekend
+-   We can see that there is a decline is user engagement and it is subject tio follow a seasonal trend
 -   We can see that the engagement dropped by almost 22% week over week in the first week of August which seems like an anomaly compared to the rest of the weeks
 -   User activity remained almost stable for first three months with a slight drop in the second month
 -   The extent of change was normal for the first three months while for last two months the extent of change was quite sharp
