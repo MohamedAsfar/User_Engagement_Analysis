@@ -36,9 +36,20 @@ The project aims to answer the following questions:<br>
 ---
 ## Task 1 
 ### Has user activity or engagement dropped, increased or remained stable? What is the extent of change in user activity/engagement?
+---
+## Task 2
+### Are there any changes in the three stages of the emails funnel? What changes have you discovered? (Please search online for terms such as sales funnel, marketing funnel to understand the funnel concept).
+---
+## Task 3
+### Are changes in user activity/engagement associated with specific devices or hardware ( mobile phone, tablet computers, desktop computers, etc.) that customers use to read emails and interact with Zilto’s web portal?
+---
+## Task 4
+### Are changes in user activity/engagement associated with specific countries or regions of the world where Zilto’s users are located?
 
+---
+## Databricks
 
-
+[Click here to see the data analysis for the company in Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3839454205680965/632151243528397/573016260412799/latest.html)
 
 ---
 [Back To The Top](#User_Engagement_Analysis)
